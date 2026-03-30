@@ -1,0 +1,336 @@
+[2026-03-26 20:14:05] INFO: ==================================================
+[2026-03-26 20:14:05] INFO: Starting mod availability check for Satisfactory 1.2
+[2026-03-26 20:14:05] INFO: Checking: Buildable SAM Ore...
+[2026-03-26 20:14:06] ERROR: Error fetching mod data for 'Buildable SAM Ore': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:14:06] INFO:   ❌ Mod not found: Buildable SAM Ore
+[2026-03-26 20:14:06] INFO: Checking: Structural Solutions...
+[2026-03-26 20:14:07] ERROR: Error fetching mod data for 'Structural Solutions': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:14:07] INFO:   ❌ Mod not found: Structural Solutions
+[2026-03-26 20:14:07] INFO: Checking: Pak Utility Mod...
+[2026-03-26 20:14:08] ERROR: Error fetching mod data for 'Pak Utility Mod': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:14:08] INFO:   ❌ Mod not found: Pak Utility Mod
+[2026-03-26 20:14:08] INFO: Checking: Refined Power...
+[2026-03-26 20:14:08] ERROR: Error fetching mod data for 'Refined Power': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:14:08] INFO:   ❌ Mod not found: Refined Power
+[2026-03-26 20:14:08] INFO: Checking: Mercer Dynamics...
+[2026-03-26 20:14:09] ERROR: Error fetching mod data for 'Mercer Dynamics': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:14:09] INFO:   ❌ Mod not found: Mercer Dynamics
+[2026-03-26 20:14:09] INFO: Checking: Modular Mod...
+[2026-03-26 20:14:09] ERROR: Error fetching mod data for 'Modular Mod': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:14:09] INFO:   ❌ Mod not found: Modular Mod
+[2026-03-26 20:14:09] INFO: Checking: Alternate Recipes...
+[2026-03-26 20:14:10] ERROR: Error fetching mod data for 'Alternate Recipes': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:14:10] INFO:   ❌ Mod not found: Alternate Recipes
+[2026-03-26 20:14:10] INFO: Check complete. 0/7 mods available
+[2026-03-26 20:14:10] INFO: ==================================================
+
+[2026-03-26 20:17:02] INFO: Loaded 7 mods from config
+[2026-03-26 20:17:02] INFO: ==================================================
+[2026-03-26 20:17:02] INFO: Starting mod availability check for Satisfactory 1.2
+[2026-03-26 20:17:02] INFO: Checking: Buildable SAM Ore...
+[2026-03-26 20:17:02] ERROR: Error fetching mod data for 'Buildable SAM Ore': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:17:02] INFO:   ❌ Mod not found: Buildable SAM Ore
+[2026-03-26 20:17:02] INFO: Checking: Structural Solutions...
+[2026-03-26 20:17:03] ERROR: Error fetching mod data for 'Structural Solutions': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:17:03] INFO:   ❌ Mod not found: Structural Solutions
+[2026-03-26 20:17:03] INFO: Checking: Pak Utility Mod...
+[2026-03-26 20:17:04] ERROR: Error fetching mod data for 'Pak Utility Mod': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:17:04] INFO:   ❌ Mod not found: Pak Utility Mod
+[2026-03-26 20:17:04] INFO: Checking: Refined Power...
+[2026-03-26 20:17:04] ERROR: Error fetching mod data for 'Refined Power': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:17:04] INFO:   ❌ Mod not found: Refined Power
+[2026-03-26 20:17:04] INFO: Checking: Mercer Dynamics...
+[2026-03-26 20:17:05] ERROR: Error fetching mod data for 'Mercer Dynamics': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:17:05] INFO:   ❌ Mod not found: Mercer Dynamics
+[2026-03-26 20:17:05] INFO: Checking: Modular Mod...
+[2026-03-26 20:17:05] ERROR: Error fetching mod data for 'Modular Mod': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:17:05] INFO:   ❌ Mod not found: Modular Mod
+[2026-03-26 20:17:05] INFO: Checking: Alternate Recipes...
+[2026-03-26 20:17:06] ERROR: Error fetching mod data for 'Alternate Recipes': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:17:06] INFO:   ❌ Mod not found: Alternate Recipes
+[2026-03-26 20:17:06] INFO: Check complete. 0/7 mods available
+[2026-03-26 20:17:06] INFO: ==================================================
+
+[2026-03-26 20:19:08] INFO: Loaded 7 mods from config
+[2026-03-26 20:19:08] INFO: ==================================================
+[2026-03-26 20:19:08] INFO: Starting mod availability check for Satisfactory 1.2
+[2026-03-26 20:19:08] INFO: Checking: Buildable SAM Ore...
+[2026-03-26 20:19:09] ERROR: Error fetching mod data for 'Buildable SAM Ore': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:19:09] INFO:   ❌ Mod not found: Buildable SAM Ore
+[2026-03-26 20:19:09] INFO: Checking: Structural Solutions...
+[2026-03-26 20:19:09] ERROR: Error fetching mod data for 'Structural Solutions': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:19:09] INFO:   ❌ Mod not found: Structural Solutions
+[2026-03-26 20:19:09] INFO: Checking: Pak Utility Mod...
+[2026-03-26 20:19:10] ERROR: Error fetching mod data for 'Pak Utility Mod': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:19:10] INFO:   ❌ Mod not found: Pak Utility Mod
+[2026-03-26 20:19:10] INFO: Checking: Refined Power...
+[2026-03-26 20:19:10] ERROR: Error fetching mod data for 'Refined Power': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:19:10] INFO:   ❌ Mod not found: Refined Power
+[2026-03-26 20:19:10] INFO: Checking: Mercer Dynamics...
+[2026-03-26 20:19:11] ERROR: Error fetching mod data for 'Mercer Dynamics': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:19:11] INFO:   ❌ Mod not found: Mercer Dynamics
+[2026-03-26 20:19:11] INFO: Checking: Modular Mod...
+[2026-03-26 20:19:12] ERROR: Error fetching mod data for 'Modular Mod': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:19:12] INFO:   ❌ Mod not found: Modular Mod
+[2026-03-26 20:19:12] INFO: Checking: Alternate Recipes...
+[2026-03-26 20:19:12] ERROR: Error fetching mod data for 'Alternate Recipes': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:19:12] INFO:   ❌ Mod not found: Alternate Recipes
+[2026-03-26 20:19:12] INFO: Check complete. 0/7 mods available
+[2026-03-26 20:19:12] INFO: ==================================================
+
+[2026-03-26 20:19:24] INFO: Loaded 7 mods from config
+[2026-03-26 20:19:24] INFO: ==================================================
+[2026-03-26 20:19:24] INFO: Starting mod availability check for Satisfactory 1.2
+[2026-03-26 20:19:24] INFO: Checking: Buildable SAM Ore...
+[2026-03-26 20:19:25] ERROR: Error fetching mod data for 'Buildable SAM Ore': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:19:25] INFO:   ❌ Mod not found: Buildable SAM Ore
+[2026-03-26 20:19:25] INFO: Checking: Structural Solutions...
+[2026-03-26 20:19:25] ERROR: Error fetching mod data for 'Structural Solutions': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:19:25] INFO:   ❌ Mod not found: Structural Solutions
+[2026-03-26 20:19:25] INFO: Checking: Pak Utility Mod...
+[2026-03-26 20:19:26] ERROR: Error fetching mod data for 'Pak Utility Mod': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:19:26] INFO:   ❌ Mod not found: Pak Utility Mod
+[2026-03-26 20:19:26] INFO: Checking: Refined Power...
+[2026-03-26 20:19:26] ERROR: Error fetching mod data for 'Refined Power': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:19:26] INFO:   ❌ Mod not found: Refined Power
+[2026-03-26 20:19:26] INFO: Checking: Mercer Dynamics...
+[2026-03-26 20:19:27] ERROR: Error fetching mod data for 'Mercer Dynamics': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:19:27] INFO:   ❌ Mod not found: Mercer Dynamics
+[2026-03-26 20:19:27] INFO: Checking: Modular Mod...
+[2026-03-26 20:19:28] ERROR: Error fetching mod data for 'Modular Mod': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:19:28] INFO:   ❌ Mod not found: Modular Mod
+[2026-03-26 20:19:28] INFO: Checking: Alternate Recipes...
+[2026-03-26 20:19:28] ERROR: Error fetching mod data for 'Alternate Recipes': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:19:28] INFO:   ❌ Mod not found: Alternate Recipes
+[2026-03-26 20:19:28] INFO: Check complete. 0/7 mods available
+[2026-03-26 20:19:28] INFO: ==================================================
+
+[2026-03-26 20:22:37] INFO: Loaded 7 mods from config
+[2026-03-26 20:22:37] INFO: Notification sent: 🧪 Test Notification
+[2026-03-26 20:22:50] INFO: Loaded 7 mods from config
+[2026-03-26 20:22:50] INFO: ==================================================
+[2026-03-26 20:22:50] INFO: Starting mod availability check for Satisfactory 1.2
+[2026-03-26 20:22:50] INFO: Checking: Buildable SAM Ore...
+[2026-03-26 20:22:51] ERROR: Error fetching mod data for 'Buildable SAM Ore': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:22:51] INFO:   ❌ Mod not found: Buildable SAM Ore
+[2026-03-26 20:22:51] INFO: Checking: Structural Solutions...
+[2026-03-26 20:22:51] ERROR: Error fetching mod data for 'Structural Solutions': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:22:51] INFO:   ❌ Mod not found: Structural Solutions
+[2026-03-26 20:22:51] INFO: Checking: Pak Utility Mod...
+[2026-03-26 20:22:52] ERROR: Error fetching mod data for 'Pak Utility Mod': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:22:52] INFO:   ❌ Mod not found: Pak Utility Mod
+[2026-03-26 20:22:52] INFO: Checking: Refined Power...
+[2026-03-26 20:22:52] ERROR: Error fetching mod data for 'Refined Power': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:22:52] INFO:   ❌ Mod not found: Refined Power
+[2026-03-26 20:22:52] INFO: Checking: Mercer Dynamics...
+[2026-03-26 20:22:53] ERROR: Error fetching mod data for 'Mercer Dynamics': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:22:53] INFO:   ❌ Mod not found: Mercer Dynamics
+[2026-03-26 20:22:53] INFO: Checking: Modular Mod...
+[2026-03-26 20:22:54] ERROR: Error fetching mod data for 'Modular Mod': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:22:54] INFO:   ❌ Mod not found: Modular Mod
+[2026-03-26 20:22:54] INFO: Checking: Alternate Recipes...
+[2026-03-26 20:22:54] ERROR: Error fetching mod data for 'Alternate Recipes': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:22:54] INFO:   ❌ Mod not found: Alternate Recipes
+[2026-03-26 20:22:54] INFO: Check complete. 0/7 mods available
+[2026-03-26 20:22:54] INFO: ==================================================
+
+[2026-03-26 20:23:46] INFO: Loaded 7 mods from config
+[2026-03-26 20:23:46] INFO: ==================================================
+[2026-03-26 20:23:46] INFO: Starting mod availability check for Satisfactory 1.2
+[2026-03-26 20:23:46] INFO: Checking: Buildable SAM Ore...
+[2026-03-26 20:23:47] ERROR: Error fetching mod data for 'Buildable SAM Ore': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:23:47] INFO:   ❌ Mod not found: Buildable SAM Ore
+[2026-03-26 20:23:47] INFO: Checking: Structural Solutions...
+[2026-03-26 20:23:48] ERROR: Error fetching mod data for 'Structural Solutions': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:23:48] INFO:   ❌ Mod not found: Structural Solutions
+[2026-03-26 20:23:48] INFO: Checking: Pak Utility Mod...
+[2026-03-26 20:23:48] ERROR: Error fetching mod data for 'Pak Utility Mod': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:23:48] INFO:   ❌ Mod not found: Pak Utility Mod
+[2026-03-26 20:23:48] INFO: Checking: Refined Power...
+[2026-03-26 20:23:49] ERROR: Error fetching mod data for 'Refined Power': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:23:49] INFO:   ❌ Mod not found: Refined Power
+[2026-03-26 20:23:49] INFO: Checking: Mercer Dynamics...
+[2026-03-26 20:23:50] ERROR: Error fetching mod data for 'Mercer Dynamics': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:23:50] INFO:   ❌ Mod not found: Mercer Dynamics
+[2026-03-26 20:23:50] INFO: Checking: Modular Mod...
+[2026-03-26 20:23:50] ERROR: Error fetching mod data for 'Modular Mod': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:23:50] INFO:   ❌ Mod not found: Modular Mod
+[2026-03-26 20:23:50] INFO: Checking: Alternate Recipes...
+[2026-03-26 20:23:51] ERROR: Error fetching mod data for 'Alternate Recipes': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:23:51] INFO:   ❌ Mod not found: Alternate Recipes
+[2026-03-26 20:23:51] INFO: Check complete. 0/7 mods available
+[2026-03-26 20:23:51] INFO: ==================================================
+
+[2026-03-26 20:23:53] INFO: Loaded 7 mods from config
+[2026-03-26 20:23:53] INFO: ==================================================
+[2026-03-26 20:23:53] INFO: Starting mod availability check for Satisfactory 1.2
+[2026-03-26 20:23:53] INFO: Checking: Buildable SAM Ore...
+[2026-03-26 20:23:54] ERROR: Error fetching mod data for 'Buildable SAM Ore': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:23:54] INFO:   ❌ Mod not found: Buildable SAM Ore
+[2026-03-26 20:23:54] INFO: Checking: Structural Solutions...
+[2026-03-26 20:23:54] ERROR: Error fetching mod data for 'Structural Solutions': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:23:54] INFO:   ❌ Mod not found: Structural Solutions
+[2026-03-26 20:23:54] INFO: Checking: Pak Utility Mod...
+[2026-03-26 20:23:55] ERROR: Error fetching mod data for 'Pak Utility Mod': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:23:55] INFO:   ❌ Mod not found: Pak Utility Mod
+[2026-03-26 20:23:55] INFO: Checking: Refined Power...
+[2026-03-26 20:23:55] ERROR: Error fetching mod data for 'Refined Power': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:23:55] INFO:   ❌ Mod not found: Refined Power
+[2026-03-26 20:23:55] INFO: Checking: Mercer Dynamics...
+[2026-03-26 20:23:56] ERROR: Error fetching mod data for 'Mercer Dynamics': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:23:56] INFO:   ❌ Mod not found: Mercer Dynamics
+[2026-03-26 20:23:56] INFO: Checking: Modular Mod...
+[2026-03-26 20:23:57] ERROR: Error fetching mod data for 'Modular Mod': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:23:57] INFO:   ❌ Mod not found: Modular Mod
+[2026-03-26 20:23:57] INFO: Checking: Alternate Recipes...
+[2026-03-26 20:23:57] ERROR: Error fetching mod data for 'Alternate Recipes': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:23:57] INFO:   ❌ Mod not found: Alternate Recipes
+[2026-03-26 20:23:57] INFO: Check complete. 0/7 mods available
+[2026-03-26 20:23:57] INFO: ==================================================
+
+[2026-03-26 20:24:43] INFO: Loaded 7 mods from config
+[2026-03-26 20:24:43] INFO: ==================================================
+[2026-03-26 20:24:43] INFO: Starting mod availability check for Satisfactory 1.2
+[2026-03-26 20:24:43] INFO: Checking: Buildable SAM Ore...
+[2026-03-26 20:24:43] ERROR: Error fetching mod data for 'Buildable SAM Ore': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:24:43] INFO:   ❌ Mod not found: Buildable SAM Ore
+[2026-03-26 20:24:43] INFO: Checking: Structural Solutions...
+[2026-03-26 20:24:44] ERROR: Error fetching mod data for 'Structural Solutions': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:24:44] INFO:   ❌ Mod not found: Structural Solutions
+[2026-03-26 20:24:44] INFO: Checking: Pak Utility Mod...
+[2026-03-26 20:24:44] ERROR: Error fetching mod data for 'Pak Utility Mod': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:24:44] INFO:   ❌ Mod not found: Pak Utility Mod
+[2026-03-26 20:24:44] INFO: Checking: Refined Power...
+[2026-03-26 20:24:45] ERROR: Error fetching mod data for 'Refined Power': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:24:45] INFO:   ❌ Mod not found: Refined Power
+[2026-03-26 20:24:45] INFO: Checking: Mercer Dynamics...
+[2026-03-26 20:24:46] ERROR: Error fetching mod data for 'Mercer Dynamics': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:24:46] INFO:   ❌ Mod not found: Mercer Dynamics
+[2026-03-26 20:24:46] INFO: Checking: Modular Mod...
+[2026-03-26 20:24:46] ERROR: Error fetching mod data for 'Modular Mod': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:24:46] INFO:   ❌ Mod not found: Modular Mod
+[2026-03-26 20:24:46] INFO: Checking: Alternate Recipes...
+[2026-03-26 20:24:47] ERROR: Error fetching mod data for 'Alternate Recipes': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:24:47] INFO:   ❌ Mod not found: Alternate Recipes
+[2026-03-26 20:24:47] INFO: Check complete. 0/7 mods available
+[2026-03-26 20:24:47] INFO: ==================================================
+
+[2026-03-26 20:24:50] INFO: Loaded 7 mods from config
+[2026-03-26 20:24:50] INFO: ==================================================
+[2026-03-26 20:24:50] INFO: Starting mod availability check for Satisfactory 1.2
+[2026-03-26 20:24:50] INFO: Checking: Buildable SAM Ore...
+[2026-03-26 20:24:51] ERROR: Error fetching mod data for 'Buildable SAM Ore': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:24:51] INFO:   ❌ Mod not found: Buildable SAM Ore
+[2026-03-26 20:24:51] INFO: Checking: Structural Solutions...
+[2026-03-26 20:24:52] ERROR: Error fetching mod data for 'Structural Solutions': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:24:52] INFO:   ❌ Mod not found: Structural Solutions
+[2026-03-26 20:24:52] INFO: Checking: Pak Utility Mod...
+[2026-03-26 20:24:52] ERROR: Error fetching mod data for 'Pak Utility Mod': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:24:52] INFO:   ❌ Mod not found: Pak Utility Mod
+[2026-03-26 20:24:52] INFO: Checking: Refined Power...
+[2026-03-26 20:24:53] ERROR: Error fetching mod data for 'Refined Power': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:24:53] INFO:   ❌ Mod not found: Refined Power
+[2026-03-26 20:24:53] INFO: Checking: Mercer Dynamics...
+[2026-03-26 20:24:54] ERROR: Error fetching mod data for 'Mercer Dynamics': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:24:54] INFO:   ❌ Mod not found: Mercer Dynamics
+[2026-03-26 20:24:54] INFO: Checking: Modular Mod...
+[2026-03-26 20:24:54] ERROR: Error fetching mod data for 'Modular Mod': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:24:54] INFO:   ❌ Mod not found: Modular Mod
+[2026-03-26 20:24:54] INFO: Checking: Alternate Recipes...
+[2026-03-26 20:24:55] ERROR: Error fetching mod data for 'Alternate Recipes': 404 Client Error: Not Found for url: https://api.ficsit.app/v2/mods?limit=100&offset=0
+[2026-03-26 20:24:55] INFO:   ❌ Mod not found: Alternate Recipes
+[2026-03-26 20:24:55] INFO: Check complete. 0/7 mods available
+[2026-03-26 20:24:55] INFO: ==================================================
+
+[2026-03-26 20:25:34] INFO: Loaded 7 mods from config
+[2026-03-26 20:25:34] INFO: ==================================================
+[2026-03-26 20:25:34] INFO: Starting mod availability check for Satisfactory 1.2
+[2026-03-26 20:25:34] INFO: Checking: Buildable SAM Ore...
+[2026-03-26 20:25:34] ERROR: Error fetching mod data for 'Buildable SAM Ore': 404 Client Error: Not Found for url: https://api.ficsit.app/v1/v2/mods?limit=100&offset=0
+[2026-03-26 20:25:34] INFO:   ❌ Mod not found: Buildable SAM Ore
+[2026-03-26 20:25:34] INFO: Checking: Structural Solutions...
+[2026-03-26 20:25:35] ERROR: Error fetching mod data for 'Structural Solutions': 404 Client Error: Not Found for url: https://api.ficsit.app/v1/v2/mods?limit=100&offset=0
+[2026-03-26 20:25:35] INFO:   ❌ Mod not found: Structural Solutions
+[2026-03-26 20:25:35] INFO: Checking: Pak Utility Mod...
+[2026-03-26 20:25:36] ERROR: Error fetching mod data for 'Pak Utility Mod': 404 Client Error: Not Found for url: https://api.ficsit.app/v1/v2/mods?limit=100&offset=0
+[2026-03-26 20:25:36] INFO:   ❌ Mod not found: Pak Utility Mod
+[2026-03-26 20:25:36] INFO: Checking: Refined Power...
+[2026-03-26 20:25:36] ERROR: Error fetching mod data for 'Refined Power': 404 Client Error: Not Found for url: https://api.ficsit.app/v1/v2/mods?limit=100&offset=0
+[2026-03-26 20:25:36] INFO:   ❌ Mod not found: Refined Power
+[2026-03-26 20:25:36] INFO: Checking: Mercer Dynamics...
+[2026-03-26 20:25:37] ERROR: Error fetching mod data for 'Mercer Dynamics': 404 Client Error: Not Found for url: https://api.ficsit.app/v1/v2/mods?limit=100&offset=0
+[2026-03-26 20:25:37] INFO:   ❌ Mod not found: Mercer Dynamics
+[2026-03-26 20:25:37] INFO: Checking: Modular Mod...
+[2026-03-26 20:25:38] ERROR: Error fetching mod data for 'Modular Mod': 404 Client Error: Not Found for url: https://api.ficsit.app/v1/v2/mods?limit=100&offset=0
+[2026-03-26 20:25:38] INFO:   ❌ Mod not found: Modular Mod
+[2026-03-26 20:25:38] INFO: Checking: Alternate Recipes...
+[2026-03-26 20:25:38] ERROR: Error fetching mod data for 'Alternate Recipes': 404 Client Error: Not Found for url: https://api.ficsit.app/v1/v2/mods?limit=100&offset=0
+[2026-03-26 20:25:38] INFO:   ❌ Mod not found: Alternate Recipes
+[2026-03-26 20:25:38] INFO: Check complete. 0/7 mods available
+[2026-03-26 20:25:38] INFO: ==================================================
+
+[2026-03-26 20:25:41] INFO: Loaded 7 mods from config
+[2026-03-26 20:25:41] INFO: ==================================================
+[2026-03-26 20:25:41] INFO: Starting mod availability check for Satisfactory 1.2
+[2026-03-26 20:25:41] INFO: Checking: Buildable SAM Ore...
+[2026-03-26 20:25:41] ERROR: Error fetching mod data for 'Buildable SAM Ore': 404 Client Error: Not Found for url: https://api.ficsit.app/v1/v2/mods?limit=100&offset=0
+[2026-03-26 20:25:41] INFO:   ❌ Mod not found: Buildable SAM Ore
+[2026-03-26 20:25:41] INFO: Checking: Structural Solutions...
+[2026-03-26 20:25:42] ERROR: Error fetching mod data for 'Structural Solutions': 404 Client Error: Not Found for url: https://api.ficsit.app/v1/v2/mods?limit=100&offset=0
+[2026-03-26 20:25:42] INFO:   ❌ Mod not found: Structural Solutions
+[2026-03-26 20:25:42] INFO: Checking: Pak Utility Mod...
+[2026-03-26 20:25:43] ERROR: Error fetching mod data for 'Pak Utility Mod': 404 Client Error: Not Found for url: https://api.ficsit.app/v1/v2/mods?limit=100&offset=0
+[2026-03-26 20:25:43] INFO:   ❌ Mod not found: Pak Utility Mod
+[2026-03-26 20:25:43] INFO: Checking: Refined Power...
+[2026-03-26 20:25:43] ERROR: Error fetching mod data for 'Refined Power': 404 Client Error: Not Found for url: https://api.ficsit.app/v1/v2/mods?limit=100&offset=0
+[2026-03-26 20:25:43] INFO:   ❌ Mod not found: Refined Power
+[2026-03-26 20:25:43] INFO: Checking: Mercer Dynamics...
+[2026-03-26 20:25:44] ERROR: Error fetching mod data for 'Mercer Dynamics': 404 Client Error: Not Found for url: https://api.ficsit.app/v1/v2/mods?limit=100&offset=0
+[2026-03-26 20:25:44] INFO:   ❌ Mod not found: Mercer Dynamics
+[2026-03-26 20:25:44] INFO: Checking: Modular Mod...
+[2026-03-26 20:25:45] ERROR: Error fetching mod data for 'Modular Mod': 404 Client Error: Not Found for url: https://api.ficsit.app/v1/v2/mods?limit=100&offset=0
+[2026-03-26 20:25:45] INFO:   ❌ Mod not found: Modular Mod
+[2026-03-26 20:25:45] INFO: Checking: Alternate Recipes...
+[2026-03-26 20:25:45] ERROR: Error fetching mod data for 'Alternate Recipes': 404 Client Error: Not Found for url: https://api.ficsit.app/v1/v2/mods?limit=100&offset=0
+[2026-03-26 20:25:45] INFO:   ❌ Mod not found: Alternate Recipes
+[2026-03-26 20:25:45] INFO: Check complete. 0/7 mods available
+[2026-03-26 20:25:45] INFO: ==================================================
+
+[2026-03-26 20:27:36] INFO: Loaded 7 mods from config
+[2026-03-26 20:27:36] INFO: ==================================================
+[2026-03-26 20:27:36] INFO: Starting mod availability check for Satisfactory 1.2
+[2026-03-26 20:27:36] INFO: Checking: Buildable SAM Ore...
+[2026-03-26 20:27:36] ERROR: Error fetching mod data for 'Buildable SAM Ore': 404 Client Error: Not Found for url: https://api.ficsit.app/v1/v2/mods?limit=100&offset=0
+[2026-03-26 20:27:36] INFO:   ❌ Mod not found: Buildable SAM Ore
+[2026-03-26 20:27:36] INFO: Checking: Structural Solutions...
+[2026-03-26 20:27:37] ERROR: Error fetching mod data for 'Structural Solutions': 404 Client Error: Not Found for url: https://api.ficsit.app/v1/v2/mods?limit=100&offset=0
+[2026-03-26 20:27:37] INFO:   ❌ Mod not found: Structural Solutions
+[2026-03-26 20:27:37] INFO: Checking: Pak Utility Mod...
+[2026-03-26 20:27:38] ERROR: Error fetching mod data for 'Pak Utility Mod': 404 Client Error: Not Found for url: https://api.ficsit.app/v1/v2/mods?limit=100&offset=0
+[2026-03-26 20:27:38] INFO:   ❌ Mod not found: Pak Utility Mod
+[2026-03-26 20:27:38] INFO: Checking: Refined Power...
+[2026-03-26 20:27:38] ERROR: Error fetching mod data for 'Refined Power': 404 Client Error: Not Found for url: https://api.ficsit.app/v1/v2/mods?limit=100&offset=0
+[2026-03-26 20:27:38] INFO:   ❌ Mod not found: Refined Power
+[2026-03-26 20:27:38] INFO: Checking: Mercer Dynamics...
+[2026-03-26 20:27:39] ERROR: Error fetching mod data for 'Mercer Dynamics': 404 Client Error: Not Found for url: https://api.ficsit.app/v1/v2/mods?limit=100&offset=0
+[2026-03-26 20:27:39] INFO:   ❌ Mod not found: Mercer Dynamics
+[2026-03-26 20:27:39] INFO: Checking: Modular Mod...
+[2026-03-26 20:27:39] ERROR: Error fetching mod data for 'Modular Mod': 404 Client Error: Not Found for url: https://api.ficsit.app/v1/v2/mods?limit=100&offset=0
+[2026-03-26 20:27:39] INFO:   ❌ Mod not found: Modular Mod
+[2026-03-26 20:27:39] INFO: Checking: Alternate Recipes...
+[2026-03-26 20:27:40] ERROR: Error fetching mod data for 'Alternate Recipes': 404 Client Error: Not Found for url: https://api.ficsit.app/v1/v2/mods?limit=100&offset=0
+[2026-03-26 20:27:40] INFO:   ❌ Mod not found: Alternate Recipes
+[2026-03-26 20:27:40] INFO: Check complete. 0/7 mods available
+[2026-03-26 20:27:40] INFO: ==================================================
+
+[2026-03-26 20:30:03] INFO: Loaded mod status from file
+[2026-03-26 20:30:21] INFO: Loaded mod status from file
+[2026-03-26 20:30:21] INFO: Refined Power marked as available
+[2026-03-26 20:30:21] INFO: Notification sent: ✅ Mod Available for Satisfactory 1.2
+[2026-03-26 20:30:31] INFO: Loaded mod status from file
+[2026-03-26 20:30:34] INFO: Loaded mod status from file
+[2026-03-26 20:31:16] INFO: Loaded mod status from file
+[2026-03-26 20:31:27] INFO: Loaded mod status from file
+[2026-03-26 20:31:31] INFO: Loaded mod status from file
+[2026-03-26 20:31:31] INFO: Refined Power marked as unavailable
+[2026-03-26 20:31:36] INFO: Loaded mod status from file
