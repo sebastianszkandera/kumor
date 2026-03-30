@@ -1,68 +1,62 @@
-# Upozorňovač dostupnosti módů Satisfactory
+# Satisfactory Mod Notifier
 
-🎮 Monitoruje módy na **ficsit.app** a odesílá **oznamovací zprávy pultu Windows** když jsou k dispozici pro **Satisfactory 1.2**.
+🎮 Monitors mods on ficsit.app and sends desktop notifications when they become available for **Satisfactory 1.2**.
 
-## Funkce
+## Features
 
-✅ Monitoruje populární módy Satisfactory  
-✅ Kontroluje dostupnost pro verzi 1.2  
-✅ Oznamovací zprávy pultu Windows  
-✅ Přizpůsobitelný seznam módů  
-✅ Jednorázové kontroly nebo nepřetržité monitorování  
-✅ Protokolování pro sledování všech kontrol  
+✅ Monitors popular Satisfactory mods
+✅ Checks availability for version 1.2
+✅ Desktop notifications
+✅ Customizable mod list
+✅ Command-line interface
 
-## Nastavení
+## Setup
 
-### 1. Instalace závislostí
-
-Otevřete PowerShell v této složce a spusťte:
+### 1. Install Dependencies
 
 ```powershell
 pip install -r requirements.txt
 ```
 
-Nebo ručně nainstalujte:
+Or manually:
 ```powershell
-pip install requests win10toast
+pip install plyer
 ```
 
-### 2. Spuštění skriptu
+### 2. Run the Script
 
-**Jednorazová kontrola módů:**
+**Show mod statuses:**
 ```powershell
 python update_notifier.py status
 ```
 
-**Označení módu jako dostupného (odesílá oznamovací zprávu):**
+**Mark mod as available (sends notification):**
 ```powershell
-python update_notifier.py available "Název módu"
+python update_notifier.py available "Mod Name"
 ```
 
-**Označení módu jako nedostupného:**
+**Mark mod as unavailable:**
 ```powershell
-python update_notifier.py unavailable "Název módu"
+python update_notifier.py unavailable "Mod Name"
 ```
 
-**Přidání nového módu k monitorování:**
+**Add new mod to track:**
 ```powershell
-python update_notifier.py add "Název módu"
+python update_notifier.py add "Mod Name"
 ```
 
-**Odebrání módu z monitorování:**
+**Remove mod from tracking:**
 ```powershell
-python update_notifier.py remove "Název módu"
+python update_notifier.py remove "Mod Name"
 ```
 
-**Test oznamovacích zpráv:**
+**Test notifications:**
 ```powershell
 python update_notifier.py test
 ```
 
-## Konfigurація
+## Default Tracked Mods
 
-### Výchozí monitorované módy
-
-Skript monitoruje tyto módy ve výchozím nastavení:
 - Refined Power
 - Satisfactory Mod Loader
 - Infinite Zoop
@@ -70,34 +64,16 @@ Skript monitoruje tyto módy ve výchozím nastavení:
 - MK++
 - Content Lib
 
-### Přizpůsobení módů
+## Files
 
-Upravte `mod_status.json` pro změnu monitorovaných módů:
+- `mod_status.json` - Your mod tracking list and statuses
+- `mod_notifier.log` - Activity log
 
-```json
-{
-  "mods": {
-    "Refined Power": false,
-    "Váš vlastní mód": false
-  }
-}
-```
+## Troubleshooting
 
-## Generované soubory
-
-- `mod_status.json` - Váš seznam módů k monitorování a jejich stav
-- `mod_notifier.log` - Úplný protokol všech akcí a notifikací
-
-## Řešení problémů
-
-**Oznamovací zprávy se nezobrazují?**
-- Zkontrolujte, zda jsou oznamovací zprávy Windows povoleny v Nastavení
-- Zkontrolujte, zda je `plyer` nainstalován: `pip install plyer`
-
-**Mód nenalezen?**
-- Ujistěte se, že je mód ve výchozím seznamu
-- Zkuste přidat mód pomocí: `python update_notifier.py add "Název módu"`
-- Kontrolujte `mod_notifier.log` pro chybové zprávy
+**Notifications not showing?**
+- Ensure Windows notifications are enabled in Settings
+- Install plyer: `pip install plyer`
 
 ## Poznámky
 
