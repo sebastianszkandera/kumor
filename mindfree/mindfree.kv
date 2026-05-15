@@ -1,0 +1,238 @@
+<HomeScreen>:
+    name: 'home'
+    BoxLayout:
+        orientation: 'vertical'
+        padding: '12dp'
+        spacing: '10dp'
+
+        BoxLayout:
+            size_hint_y: None
+            height: '50dp'
+            spacing: '8dp'
+            Button:
+                text: 'Dashboard'
+                on_release: root.manager.current = 'home'
+            Button:
+                text: 'Safe Browser'
+                on_release: root.manager.current = 'browser'
+
+        BoxLayout:
+            size_hint_y: None
+            height: '56dp'
+            spacing: '10dp'
+            Label:
+                text: 'MindFree'
+                font_size: '26sp'
+                bold: True
+            Label:
+                text: root.app.current_time
+                font_size: '16sp'
+                halign: 'right'
+                valign: 'middle'
+
+        BoxLayout:
+            orientation: 'vertical'
+            padding: '14dp'
+            spacing: '10dp'
+            canvas.before:
+                Color:
+                    rgba: 0.15, 0.46, 0.76, 0.14
+                RoundedRectangle:
+                    pos: self.pos
+                    size: self.size
+                    radius: [18,]
+            Label:
+                text: 'Denní sledování času a režimy'
+                size_hint_y: None
+                height: '24dp'
+            GridLayout:
+                cols: 2
+                row_default_height: '32dp'
+                row_force_default: True
+                col_default_width: '180dp'
+                col_force_default: True
+                spacing: '10dp'
+                Label:
+                    text: 'Celkem:'
+                Label:
+                    text: root.app.daily_usage_label
+                    bold: True
+                Label:
+                    text: 'Cíl:'
+                Label:
+                    text: str(root.app.daily_target) + ' min'
+                    bold: True
+                Label:
+                    text: 'Stav:'
+                Label:
+                    text: root.app.session_status
+                    bold: True
+                Label:
+                    text: 'Režim:'
+                Label:
+                    text: root.app.mode_label
+                    bold: True
+                Label:
+                    text: 'Pokrok:'
+                Label:
+                    text: root.app.progress_label
+                    bold: True
+
+        GridLayout:
+            cols: 2
+            row_default_height: '42dp'
+            row_force_default: True
+            col_default_width: '180dp'
+            col_force_default: True
+            spacing: '10dp'
+            CheckBox:
+                active: root.app.block_trackers
+                on_active: root.app.block_trackers = self.active; root.app.save_data()
+            Label:
+                text: 'Blokovat trackery'
+            CheckBox:
+                active: root.app.block_scroll
+                on_active: root.app.block_scroll = self.active; root.app.save_data()
+            Label:
+                text: 'Zrušit nekonečný scroll'
+            CheckBox:
+                active: root.app.limit_recommendations
+                on_active: root.app.limit_recommendations = self.active; root.app.save_data()
+            Label:
+                text: 'Omezit doporučení'
+            CheckBox:
+                active: root.app.mute_notifications
+                on_active: root.app.mute_notifications = self.active; root.app.save_data()
+            Label:
+                text: 'Ztišit notifikace'
+            CheckBox:
+                active: root.app.child_mode
+                on_active: root.app.child_mode = self.active; root.app.update_status_labels(); root.app.save_data()
+            Label:
+                text: 'Režim pro děti'
+
+        BoxLayout:
+            size_hint_y: None
+            height: '42dp'
+            spacing: '8dp'
+            Label:
+                text: 'Blokovat weby od'
+                size_hint_x: None
+                width: '110dp'
+            TextInput:
+                text: root.app.block_start
+                multiline: False
+                on_text_validate: root.app.block_start = self.text; root.app.save_data()
+                on_focus: if not self.focus: root.app.block_start = self.text; root.app.save_data()
+            Label:
+                text: 'do'
+                size_hint_x: None
+                width: '30dp'
+            TextInput:
+                text: root.app.block_end
+                multiline: False
+                on_text_validate: root.app.block_end = self.text; root.app.save_data()
+                on_focus: if not self.focus: root.app.block_end = self.text; root.app.save_data()
+
+        Label:
+            text: 'Blok status: ' + root.app.block_status
+            size_hint_y: None
+            height: '24dp'
+            text_size: self.width, None
+            halign: 'left'
+            valign: 'middle'
+
+        BoxLayout:
+            size_hint_y: None
+            height: '52dp'
+            spacing: '10dp'
+            Button:
+                text: 'Start / Stop Focus'
+                on_release: root.app.toggle_focus()
+            Button:
+                text: 'Resetovat čas'
+                on_release: root.app.reset_timer()
+
+        Label:
+            text: root.app.recommended_text
+            size_hint_y: None
+            height: '56dp'
+            text_size: self.width, None
+            valign: 'middle'
+            halign: 'left'
+
+        Label:
+            text: 'MindFree nemusí přepsat celý prohlížeč; funguje jako vlastní bezpečná cesta k obsahu a omezení rozptýlení.'
+            font_size: '14sp'
+            size_hint_y: None
+            height: '54dp'
+            text_size: self.width, None
+            valign: 'top'
+
+<BrowserScreen>:
+    name: 'browser'
+    BoxLayout:
+        orientation: 'vertical'
+        padding: '12dp'
+        spacing: '10dp'
+
+        BoxLayout:
+            size_hint_y: None
+            height: '50dp'
+            spacing: '8dp'
+            Button:
+                text: 'Dashboard'
+                on_release: root.manager.current = 'home'
+            Button:
+                text: 'Safe Browser'
+                on_release: root.manager.current = 'browser'
+
+        BoxLayout:
+            size_hint_y: None
+            height: '42dp'
+            spacing: '8dp'
+            TextInput:
+                id: url_input
+                text: root.app.current_url
+                multiline: False
+                hint_text: 'Zadej adresu nebo název domény'
+                on_text_validate: root.app.open_url(self.text)
+            Button:
+                text: 'Otevřít'
+                size_hint_x: None
+                width: '100dp'
+                on_release: root.app.open_url(url_input.text)
+
+        BoxLayout:
+            size_hint_y: None
+            height: '38dp'
+            spacing: '8dp'
+            Button:
+                text: 'TikTok'
+                on_release: root.app.open_url('https://www.tiktok.com')
+            Button:
+                text: 'Instagram'
+                on_release: root.app.open_url('https://www.instagram.com')
+            Button:
+                text: 'YouTube'
+                on_release: root.app.open_url('https://www.youtube.com')
+
+        Label:
+            text: 'Status: ' + root.app.status_message
+            size_hint_y: None
+            height: '24dp'
+            halign: 'left'
+            valign: 'middle'
+            text_size: self.width, None
+
+        ScrollView:
+            do_scroll_x: False
+            Label:
+                text: root.app.browser_content
+                text_size: self.width, None
+                size_hint_y: None
+                height: self.texture_size[1]
+                halign: 'left'
+                valign: 'top'
+                markup: False
+                shorten: False
